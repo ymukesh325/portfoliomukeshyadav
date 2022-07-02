@@ -799,9 +799,6 @@ footer span a:hover{
 }
 
 @media (max-width: 690px) {
-    .html{
-        overflow-x: hidden;
-    }
     .max-width{
         padding: 0 23px;
     }
@@ -823,9 +820,6 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
-    .html{
-        overflow-x: hidden;
-    }
     .home .home-content .text-2{
         font-size: 50px;
     }

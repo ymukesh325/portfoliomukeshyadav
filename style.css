@@ -708,9 +708,6 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
-    .html{
-        overflow-x: hidden;
-    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -817,6 +814,13 @@ footer span a:hover{
     .achievement .achie-content .card{
         width: 100%;
     }
+    .wrapper{
+        padding: 0% 0%;
+    }
+    .wrapper .icon
+    {
+        margin: 0% 2%;
+    }
 }
 
 @media (max-width: 500px) {
@@ -847,5 +851,12 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    .wrapper{
+        padding: 0% 0%;
+    }
+    .wrapper .icon
+    {
+        margin: 0% 2%;
     }
 }
